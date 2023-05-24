@@ -7,7 +7,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "protobufjs": "^7.2.3"
+    "protobufjs": "^6.11.3"
   },
   "devDependencies": {
     "miniprogram-api-typings": "^2.8.3-1"
